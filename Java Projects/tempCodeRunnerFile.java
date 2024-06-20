@@ -1,0 +1,11 @@
+six);
+      container.add(sub);
+      container.add(seven);
+      container.add(eight);
+      container.add(nine);
+      container.add(div);
+      container.add(num0);
+      container.add(point);
+      container.add(mult);
+      container.add(equalto);
+      container.add(reset);
